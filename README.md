@@ -3,4 +3,4 @@
 + **Github is fun**
 + The End !
 + _Thank you_
-+ $ frac\{(x-1)}{2} $
++ $ x^2+y^2=1 $
