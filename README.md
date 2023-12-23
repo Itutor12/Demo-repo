@@ -3,4 +3,4 @@
 + **Github is fun**
 + The End !
 + _Thank you_
-+ $ frac{(x-1)}{2} $
++ $ frac\{(x-1)}{2} $
